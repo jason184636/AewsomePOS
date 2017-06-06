@@ -1,6 +1,8 @@
 <template>
   <div id="app">
     <leftNav></leftNav>
+    <leftNav></leftNav>
+    <div>fkdsfhdk</div>
     <div class="main">
       <router-view></router-view>
     </div>
